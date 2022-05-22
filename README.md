@@ -1,4 +1,14 @@
-### Hi there 👋
+## プロフィール
+- 名前 　: 畠垣 光希
+- 所属 　: 愛媛大学大学院 理工学研究科 電子情報工学専攻 人工知能研究室
+- 連絡先 : hatagaki@ai.cs.ehime-u.ac.jp
+
+## 学位論文
+- 卒業論文 : ノイズが含まれたやさしい日本語コーパスのフィルタリングに関する研究 
+
+
+## 受賞や資格
+
 
 <!--
 **KHatagaki/Khatagaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
