@@ -2,6 +2,8 @@
 - 名前 　: 畠垣 光希
 - 所属 　: 愛媛大学大学院 理工学研究科 電子情報工学専攻 人工知能研究室
 - 連絡先 : hatagaki@ai.cs.ehime-u.ac.jp
+- AtCoder : https://atcoder.jp/users/Hakoo
+- SIGNATE : https://signate.jp/users/81026
 
 ## 学位論文
 - 卒業論文 : ノイズが含まれたやさしい日本語コーパスのフィルタリングに関する研究 
@@ -15,6 +17,8 @@
 - 2020年度enPiTビジネスシステムデザイン分野ワークショップにて技術賞の受賞  
 記事 : https://www.ehime-u.ac.jp/post-151840/  
 デモ動画 : https://www.youtube.com/watch?v=rxvX0JOYv-w  
+- SIGNATE Student Cup 2022【予測部門】銀メダル受賞
+
 
 <!--
 **KHatagaki/Khatagaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
