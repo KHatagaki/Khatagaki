@@ -7,14 +7,14 @@
 - 卒業論文 : ノイズが含まれたやさしい日本語コーパスのフィルタリングに関する研究 
 
 ## 研究実績
-- 畠垣光希, 梶原智之, 二宮崇
-やさしい日本語へのテキスト平易化のための訓練データの精選
-第21回情報科学技術フォーラム（FIT 2022）
+- 畠垣光希, 梶原智之, 二宮崇  
+やさしい日本語へのテキスト平易化のための訓練データの精選  
+第21回情報科学技術フォーラム（FIT 2022）  
 
 ## 受賞や資格
-- 2020年度enPiTビジネスシステムデザイン分野ワークショップにて技術賞の受賞
-記事 : https://www.ehime-u.ac.jp/post-151840/
-デモ動画 : https://www.youtube.com/watch?v=rxvX0JOYv-w
+- 2020年度enPiTビジネスシステムデザイン分野ワークショップにて技術賞の受賞  
+記事 : https://www.ehime-u.ac.jp/post-151840/  
+デモ動画 : https://www.youtube.com/watch?v=rxvX0JOYv-w  
 
 <!--
 **KHatagaki/Khatagaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
