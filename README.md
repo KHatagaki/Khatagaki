@@ -18,9 +18,9 @@
 記事 : https://www.ehime-u.ac.jp/post-151840/  
 デモ動画 : https://www.youtube.com/watch?v=rxvX0JOYv-w  
 - SIGNATE Student Cup 2022【予測部門】銀メダル受賞
-- 第21回情報科学技術フォーラム（FIT2022） FIT奨励賞
-  畠垣光希, 梶原智之, 二宮崇  
+- 第21回情報科学技術フォーラム（FIT2022） FIT奨励賞  
 やさしい日本語へのテキスト平易化のための訓練データの精選  
+畠垣光希, 梶原智之, 二宮崇
 
 
 <!--
