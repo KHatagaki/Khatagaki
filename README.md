@@ -12,6 +12,9 @@
 - 畠垣光希, 梶原智之, 二宮崇  
 やさしい日本語へのテキスト平易化のための訓練データの精選  
 第21回情報科学技術フォーラム（FIT 2022）  
+<!-- - Koki Hatagaki, Tomoyuki Kajiwara, Takashi Ninomiya
+Parallel Corpus Filtering for Japanese Text Simplification
+The Text Simplification, Accessibility, and Readability (TSAR2022) workshop -->
 
 ## 受賞や資格
 - 2020年度enPiTビジネスシステムデザイン分野ワークショップにて技術賞の受賞  
@@ -21,6 +24,7 @@
 - 第21回情報科学技術フォーラム（FIT2022） FIT奨励賞  
 やさしい日本語へのテキスト平易化のための訓練データの精選  
 畠垣光希, 梶原智之, 二宮崇
+
 
 
 <!--
