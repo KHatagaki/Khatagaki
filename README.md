@@ -24,6 +24,7 @@ In Proceedings of the Workshop on Text Simplification, Accessibility, and Readab
 - 第21回情報科学技術フォーラム（FIT2022） FIT奨励賞  
 やさしい日本語へのテキスト平易化のための訓練データの精選  
 畠垣光希, 梶原智之, 二宮崇
+- Nishika ヘイトスピーチ検出 金メダル受賞
 
 
 
