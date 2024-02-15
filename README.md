@@ -11,21 +11,27 @@
 ## 研究実績
 - 畠垣光希, 梶原智之, 二宮崇  
 やさしい日本語へのテキスト平易化のための訓練データの精選  
-第21回情報科学技術フォーラム（FIT 2022）  
+第21回情報科学技術フォーラム(FIT2022）  
 - Koki Hatagaki, Tomoyuki Kajiwara, Takashi Ninomiya
 Parallel Corpus Filtering for Japanese Text Simplification
 In Proceedings of the Workshop on Text Simplification, Accessibility, and Readability (TSAR 2022), Abu Dhabi, UAE, December 2022.
+- 樽本空宙, 畠垣光希, 宮田莉奈, 梶原智之, 二宮崇
+系列変換タスクにおける ChatGPT の日本語生成能力の評価
+第22回情報科学技術フォーラム (FIT2023)
+
 
 ## 受賞や資格
 - 2020年度enPiTビジネスシステムデザイン分野ワークショップにて技術賞の受賞  
-記事 : https://www.ehime-u.ac.jp/post-151840/  
-デモ動画 : https://www.youtube.com/watch?v=rxvX0JOYv-w  
+  記事 : https://www.ehime-u.ac.jp/post-151840/  
+  デモ動画 : https://www.youtube.com/watch?v=rxvX0JOYv-w  
 - SIGNATE Student Cup 2022【予測部門】銀メダル受賞
 - 第21回情報科学技術フォーラム（FIT2022） FIT奨励賞  
-やさしい日本語へのテキスト平易化のための訓練データの精選  
-畠垣光希, 梶原智之, 二宮崇
+  やさしい日本語へのテキスト平易化のための訓練データの精選  
+  畠垣光希, 梶原智之, 二宮崇
 - Nishika ヘイトスピーチ検出 金メダル受賞
-
+- 第22回情報科学技術フォーラム (FIT2023) FIT奨励賞
+  系列変換タスクにおける ChatGPT の日本語生成能力の評価
+  樽本空宙, 畠垣光希, 宮田莉奈, 梶原智之, 二宮崇
 
 
 <!--
